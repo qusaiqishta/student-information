@@ -1,0 +1,62 @@
+*{background-image: url(https://alqudscollege-my.sharepoint.com/personal/advtech_ltuc_com/Documents/Academia/Courses/Code%20Fellows%20Courses/Entrance%20Exam/301%20Entrance%20Exam/201d14,201d15&201d16/bg.jpg);
+
+     /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+}
+
+ul li{ 
+    display: inline-block;
+color:white;
+font-size: large;
+padding-left: 150px;
+font-size: x-large;
+}
+table{
+    border: 1px solid black;
+color: white;
+margin-left: 1000px;
+font-size: x-large;
+
+}
+a{
+    color: white;
+}
+
+
+
+
+input[type=text], select {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+
+  label{
+      color: white;
+  }
+
+  footer{
+      text-align: center;
+      color: white;
+      width: 100%;
+      margin-top: 20px;
+      padding: 40px;
+  }
+
+  h4{
+      text-align: center;
+      color: white;
+  }
+
+  button{
+      color: white;
+      margin-left: 50px;
+      width: 70px;
+  }
